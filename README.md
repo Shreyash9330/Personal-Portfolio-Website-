@@ -42,6 +42,16 @@ This portfolio was created to represent my skills as a frontend developer and to
 
 ---
 
-### 📸 Screenshot Preview
 
-> *(Add images later if you want)*  
+### 📬 Contact Me
+
+📧 Email: **shreyashmgawande@gmail.com**  
+🔗 LinkedIn: https://www.linkedin.com/in/shreyash-gawande9330  
+🐙 GitHub: https://github.com/Shreyash9330  
+
+---
+
+### ⭐ If you like this project
+Don’t forget to **star the repo** ⭐ and follow for more updates!
+
+
