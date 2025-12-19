@@ -42,7 +42,6 @@ This portfolio was created to represent my skills as a frontend developer and to
 
 ---
 
-
 ### 📬 Contact Me
 
 📧 Email: **shreyashmgawande@gmail.com**  
