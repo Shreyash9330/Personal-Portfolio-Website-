@@ -1,4 +1,3 @@
-
 // Scroll background change
 
 window.addEventListener("scroll", function () {
@@ -9,4 +8,5 @@ window.addEventListener("scroll", function () {
     navbar.classList.remove("scrolled");
   }
 });
+
 
